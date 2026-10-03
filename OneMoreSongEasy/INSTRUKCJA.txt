@@ -1,0 +1,19 @@
+NAJPROSTSZY SPOSÓB ZBUDOWANIA APK — BEZ ANDROID STUDIO
+
+1. Wejdź na https://github.com i zaloguj się.
+2. Kliknij + -> New repository.
+3. Nazwij repozytorium: OneMoreSong
+4. Kliknij Create repository.
+5. Kliknij Add file -> Upload files.
+6. Rozpakuj ten ZIP. Przeciągnij do GitHuba ZAWARTOŚĆ folderu OneMoreSongEasy.
+7. Kliknij Commit changes.
+8. Wejdź w Actions.
+9. Kliknij „Build ONE MORE SONG APK”.
+10. Jeśli trzeba: Run workflow -> Run workflow.
+11. Poczekaj na zielony znaczek.
+12. Kliknij wykonanie workflow.
+13. Na dole znajdziesz Artifacts -> ONE-MORE-SONG-APK.
+14. Pobierz ZIP, rozpakuj i dostaniesz app-debug.apk.
+15. Przenieś APK na telefon i zainstaluj.
+
+NIE potrzebujesz Android Studio ani Android SDK na swoim komputerze. GitHub robi kompilację za Ciebie.
